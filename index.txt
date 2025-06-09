@@ -1,0 +1,8 @@
+Link: https://www.example.com
+LinkName: Example Website
+Normal Text
+Link: https://www.anotherexample.com
+LinkName: Another Example
+Other Text
+Try to change something ;-)
+It is your page :-D
